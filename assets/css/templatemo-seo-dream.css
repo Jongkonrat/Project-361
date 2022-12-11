@@ -1368,8 +1368,9 @@ Services Style
 }
 
 .service-item .icon img {
-    width: 38px;
-    height: 38px;
+    /* width: 38px;
+    height: 38px; */
+    border-radius: 999px;
 }
 
 .service-item h4 {
